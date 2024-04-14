@@ -1,0 +1,11 @@
+B1:tải file của thầy về giải nén,
+vô trong bật cmd nhập:
+
+conda create -n course python=3.12
+conda activate course
+pip install -r requirements.txt	
+
+--TẮT-- mở lại
+
+conda activate course
+jupyter lab
